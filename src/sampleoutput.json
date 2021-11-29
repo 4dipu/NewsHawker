@@ -1,0 +1,77 @@
+{
+  "status": "ok",
+  "totalResults": 8,
+  "articles": [
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Carolyn Y. Johnson",
+      "title": "Treatments will change the pandemic, but they can’t end it alone",
+      "description": "A year after coronavirus vaccines dangled visions of an end to the pandemic, science has delivered inspiring results again: two antiviral pills that dramatically reduce the risk of hospitalization and death.",
+      "url": "https://www.washingtonpost.com/health/2021/11/21/pandemic-antiviral-pills/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5N7SQLBYFYI6ZFTCHGOPU5PP5Y.jpg&w=1440",
+      "publishedAt": "2021-11-21T21:56:40Z",
+      "content": "If regulators deem the five-day treatment courses from Pfizer and Merck and its partner Ridgeback Biotherapeutics safe and effective in coming weeks,as most people expect, the drugs could make gettin… [+10128 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Kim Lyons",
+      "title": "New trailers: The Expanse, Ozark, Encounter, and more",
+      "description": "A  lot of science fiction this week, including the final season of The Expanse, the dark comedy Don’t Look Up, and the sci-fi thriller Encounter, starring Riz Ahmed. Plus, the final season of Ozark.",
+      "url": "https://www.theverge.com/2021/11/21/22787416/new-trailers-the-expanse-ozark-encounter-dont-look-up-netflix-amazon",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/nHYLZx3iej-3wdzSLAtXtInKy-U=/182x0:1697x793/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23028990/theexpanse.PNG",
+      "publishedAt": "2021-11-21T17:59:00Z",
+      "content": "Plus a full trailer for the sci-fi comedy Dont Look Up\r\nThe Expanse returns for its final season December 10th\r\nAmazon Prime Video\r\nWelp, The Morning Show season two finale was a messy disappointment… [+3557 chars]"
+    },
+    {
+      "source": { "id": "wired", "name": "Wired" },
+      "author": "Wired",
+      "title": "Body Language Pseudoscience Is Flourishing on YouTube",
+      "description": "In celebrity interviews and homicide cases, video sleuths are searching for the truth—but what if the signals are all wrong?",
+      "url": "https://www.wired.com/story/youtube-body-language/",
+      "urlToImage": "https://media.wired.com/photos/6198454fb2fc4e96e3b1aa79/191:100/w_1280,c_limit/Science_bodylanguage_GettyImages-105900151.jpg",
+      "publishedAt": "2021-11-21T12:00:00Z",
+      "content": "When specific gestures are associated with specific meanings, and when this is implicitly or explicitly presented as scientific, then it begins to fall under the umbrella of pseudoscience, Denault sa… [+3434 chars]"
+    },
+    {
+      "source": { "id": "the-next-web", "name": "The Next Web" },
+      "author": "TNW Deals",
+      "title": "This training can get you hired as a true computer science expert",
+      "description": "TLDR: The 2022 Premium Computer Science Career Path Certification Bundle features nearly 90 hours of training in computer science to understand data analysis tools and how they work.\r\n\r\nAmazon ...",
+      "url": "http://thenextweb.com/news/this-training-can-get-you-hired-as-a-true-computer-science-expert",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-deals?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2FTNW-Computer-Science-Expert.jpeg&signature=9590097b0e0023d9b684a9a7293c06c0",
+      "publishedAt": "2021-11-20T14:00:15Z",
+      "content": "TLDR: The 2022 Premium Computer Science Career Path Certification Bundle features nearly 90 hours of training in computer science to understand data analysis tools and how they work.\r\nAmazon is one o… [+2400 chars]"
+    },
+    {
+      "source": { "id": "hacker-news", "name": "Hacker News" },
+      "author": null,
+      "title": "bigscience/T0pp · Hugging Face",
+      "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+      "url": "https://huggingface.co/bigscience/T0pp",
+      "urlToImage": "https://huggingface.co/front/thumbnails/v2-2.png",
+      "publishedAt": "2021-10-18T16:37:20.4140551Z",
+      "content": "Model Description\r\nT0* is a series of encoder-decoder models trained on a large set of different tasks specified in natural language prompts. We convert numerous English supervised datasets into prom… [+11344 chars]"
+    },
+    {
+      "source": { "id": "hacker-news", "name": "Hacker News" },
+      "author": null,
+      "title": "Opening up a physics simulator for robotics",
+      "description": "As part of DeepMind's mission of advancing science, we have acquired the MuJoCo physics simulator and are making it freely available for everyone, to support research everywhere.",
+      "url": "https://deepmind.com/blog/announcements/mujoco",
+      "urlToImage": "https://lh3.googleusercontent.com/jVZ3VN7wwx2dSowqLmhqm0qAzAmcb-1t7ks3HiNnoHknihF5sl9VDEwuCNTSxfx8jFIi7mBQkvHUdnSKXSPgYLNpvCuE4YajJeMnrYA",
+      "publishedAt": "2021-10-18T16:07:20.4749314Z",
+      "content": "Advancing research everywhere with the acquisition of MuJoCo\r\nWhen you walk, your feet make contact with the ground. When you write, your fingers make contact with the pen. Physical contacts are what… [+1849 chars]"
+    },
+    {
+      "source": { "id": "national-geographic", "name": "National Geographic" },
+      "author": "Nadia Drake",
+      "title": "How these feuding map-makers shaped our fascination with Mars",
+      "description": "One was an artist who loved space. His rival was a bold professional astronomer. Their race to map the red planet sparked decades of science and speculation.",
+      "url": "https://www.nationalgeographic.com/science/2021/02/how-feuding-map-makers-shaped-our-fascination-with-mars.html",
+      "urlToImage": "https://pmdvod.nationalgeographic.com/NG_Video/788/579/smpost_1612381336455.jpg",
+      "publishedAt": "2021-02-17T14:37:21.3706142Z",
+      "content": null
+    }
+    
+  ]
+}
